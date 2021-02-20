@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+header {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+footer {
+	width: 100%;
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+article {
+	width: 100%;
+	float: left;
+}
+.img {
+	width: 100%;
+}
+.title {
+	padding: 0px;
+	margin: 40px;
+	margin-bottom: 0px;
+	font-size: 85px;
+}
+.category {
+	padding: 0px;
+	margin: 0px;
+	font-size: 40px;
+	margin-left: 40px;
+	color: #363633;
+}
+.categoryLi {
+	float: left;
+	margin: 30px;
+}
+.hr {
+	width: 100%;
+	padding: 0px;
+}
+.hrArticle {
+	width: 95%;
+	padding: 0;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.articleImg {
+	width: 300px;
+	float: right;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+.articleH2 {
+	font-size: 65px;
+	margin: 40px;
+	margin-top: 50px;
+	float: left;
+}
+.articleH3 {
+	font-size: 50px;
+	margin: 40px;
+}
+.articleP {
+	color: #7D7D7D;
+	font-weight: 400;
+	font-size: 25pt;
+	margin-left: 40px;
+}
+.priceSet {
+	font-weight: bold;
+	font-size: 45px;
+	margin-left: 40px;
+	float: left;
+}
+.priceLabel {
+	float: left;
+	margin-right: 30px;
+}
+.footer {
+	font-size: 35px;
+}
